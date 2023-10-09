@@ -1,0 +1,95 @@
+
+body, h1, h3, p {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #f3f3f3;
+    font-family: Arial, sans-serif;
+}
+.container-information {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.navbar-indihome {
+    text-align: center;
+}
+h1 {
+    font-size: 24px;
+    text-align: center;
+    margin: 20px 0;
+}
+.container {
+    background-color: #c0bbbd;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+h3 {
+    font-size: 18px;
+    margin: 10px 0;
+}
+p {
+    font-size: 14px;
+    line-height: 1.5;
+}
+select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #4fc483;
+    border-radius: 5px;
+}
+.card {
+    text-align: center;
+    background-color: #176ced;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.card h3 {
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+.card h5 {
+    font-size: 18px;
+}
+.card li {
+    list-style-type: disc;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+button {
+    background-color: #007bff;
+    color: #0e0d0d;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.page-footer {
+    background-color: #6330c8;
+    color: #0f0e0e;
+    padding: 20px 0;
+    text-align: center;
+}
+.page-footer-nav a {
+    color: #e81818;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.border-landingpage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page-footer-nav{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
